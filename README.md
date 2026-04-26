@@ -1,48 +1,91 @@
-# 🌐 Multilingual Programming
+# 🌐 Multilingual Programming Language
 
 > *Not yet another programming language. A multilingual one.*
 
-## What is this?
+---
 
-Most programming languages inherit a silent assumption:
-that computation is expressed in English.
+## 🚀 What is Multilingual Programming?
 
-Keywords like `if`, `while`, `for`, `print` are treated as universal —
-yet they are rooted in a specific linguistic and cultural context.
+Most programming languages assume one thing:
+👉 **code is written in English**
 
-**Multilingual Programming** challenges this default.
+Keywords like `if`, `while`, `for`, `print` reflect a single linguistic tradition.
 
-It is a programming paradigm and experimental language ecosystem where
-**code can be written in any human language**, using native words, scripts, and expressions —
-without changing the underlying computational semantics.
+**Multilingual Programming** challenges that assumption.
 
-Write algorithms in French, Spanish, Japanese, Arabic…
-The logic remains identical. Only the *expression* changes.
+It is a programming language framework that allows you to:
 
-> Code adapts to the programmer — not the other way around.
+* write code in **your own human language**
+* use **localized keywords and syntax**
+* preserve a **shared semantic core across languages**
+
+🧠 The idea is simple:
+
+> Programming should adapt to humans — not the other way around.
 
 ---
 
-## ✨ Why it matters
+## ✨ Key Features
 
-Programming is often described as universal — but in practice, it is linguistically constrained.
-
-Multilingual programming explores a different idea:
-
-* 🧠 **Cognitive alignment** — write code in the language you think in
-* 🌍 **Linguistic inclusivity** — lower barriers for non-English speakers
-* 🧩 **Semantic invariance** — preserve identical computation across languages
-* 🎨 **Creative coding** — treat programming as a form of expression, not just instruction
-
-This is not about replacing existing languages.
-It is about expanding the space of how computation can be expressed.
+* 🌍 **Write code in multiple human languages** (French, English, Spanish, Japanese, Arabic, and beyond)
+* 🔁 **Same semantics, different syntax**
+* 🧩 **Language mappings via JSON**
+* 🐍 **Python-based execution model**
+* ⚙️ **WebAssembly (WASM) support**
+* 🌐 **Browser-based playground**
+* 🧪 **Experimental computational models (fractals, cellular automata, tilings)**
 
 ---
 
-## 🧪 An experimental ecosystem
+## 🧱 Architecture Overview
 
-This organization hosts a growing set of projects exploring multilingual computation
-through interpreters, visual tools, and creative applications:
+```
+Human Language Code
+        ↓
+Language Mapping (JSON)
+        ↓
+Intermediate Representation
+        ↓
+Execution Backend:
+   → Python Interpreter
+   → WebAssembly (WASM)
+```
+
+👉 This design enables:
+
+* cross-language interoperability
+* reproducibility
+* extensibility toward new languages
+
+---
+
+## 📦 Projects in this Organization
+
+This organization hosts a collection of experimental and research-driven projects.
+
+### 🧠 Core Language
+
+* **multilingual**
+  → Core interpreter and language infrastructure
+  → Defines the semantic model and execution engine
+
+---
+
+### 🧪 Experimental Projects
+
+* **playground**
+  → Interactive environment to test multilingual code in the browser
+
+* **fractals**
+  → Generate fractal patterns using multilingual code
+
+* **pixel2polygon**
+  → Convert images into geometric mosaics
+
+* **cellcosmos**
+  → Cellular automata simulations in the browser
+
+---
 
 | Project                                                                   | Description                                           |
 | ------------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -54,49 +97,89 @@ through interpreters, visual tools, and creative applications:
 | [fractales](https://github.com/multilingualprogramming/fractales)         | Explore fractals through multilingual code            |
 | [cellcosmos](https://github.com/multilingualprogramming/cellcosmos)       | Simulate cellular automata worlds                     |
 
-Together, these projects form a **playground for ideas at the intersection of language, computation, and design**.
+### 🔬 Research & Exploration
+
+These projects explore how multilingual programming interacts with:
+
+* algorithmic art
+* geometric transformations
+* discrete systems
+* visual computation
 
 ---
 
-## 🚀 Try it now
+## 🎯 Why This Matters
 
-→ [**Open the Playground**](https://multilingualprogramming.github.io/playground/)
+Programming is one of the most powerful tools ever created —
+yet it remains linguistically exclusive.
 
-Write your first program in your own language — and see it run.
+Multilingual programming opens new directions:
+
+* 🌍 **Accessibility**: lower barriers for non-English speakers
+* 🧠 **Cognitive alignment**: think and code in the same language
+* 🎓 **Education**: teach programming in native languages
+* 🔬 **Research**: explore language–computation relationships
 
 ---
 
-## 🔭 Vision
+## 🛠️ Getting Started
 
-Multilingual Programming is also a research direction.
+Clone the core repository:
 
-It raises deeper questions:
+```bash
+git clone https://github.com/multilingualprogramming/multilingual
+cd multilingual
+```
 
-* Can programming languages be **language-agnostic at the surface level**?
-* How do **semantics remain invariant across linguistic transformations**?
-* Can this approach support **education, accessibility, and global participation**?
-* What new forms of **creative coding** emerge when syntax is no longer fixed?
+Run examples:
 
-This project is an open exploration of these questions.
+```bash
+python main.py examples/example.ml
+```
+
+👉 Or try directly in the browser:
+[https://multilingualprogramming.github.io/](https://multilingualprogramming.github.io/)
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome at all levels:
+Contributions are welcome!
 
-* 🌐 Add support for new natural languages
-* ⚙️ Improve the interpreter and tooling
-* 🎨 Build creative applications on top of the language
-* 📚 Extend documentation and examples
+You can help by:
 
-Open an issue or a pull request — and help shape this ecosystem.
+* adding new language mappings
+* building new example applications
+* improving documentation
+* extending the runtime (Python / WASM)
 
 ---
 
-## 📜 License
+## 🌍 Vision
 
-Code is released under [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html).
-Documentation and metadata under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+This project is not just about syntax.
 
+It is about rethinking programming as:
+
+* a **universal human activity**
+* a **multilingual interface to computation**
+* a **bridge between cultures and code**
+
+---
+
+## 🔗 Links
+
+* 🌐 Website: [https://multilingualprogramming.github.io/](https://multilingualprogramming.github.io/)
+* 📦 Organization: [https://github.com/multilingualprogramming](https://github.com/multilingualprogramming)
+* 🧪 Playground: [https://github.com/multilingualprogramming/playground](https://github.com/multilingualprogramming/playground)
+
+---
+
+## ⭐ Support the Project
+
+If you find this idea interesting:
+
+* ⭐ Star the repositories
+* 🔁 Share with others
+* 🧠 Contribute ideas
 
