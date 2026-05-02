@@ -44,15 +44,16 @@ It is about expanding the space of how computation can be expressed.
 This organization hosts a growing set of projects exploring multilingual computation
 through interpreters, visual tools, and creative applications:
 
-| Project                                                                   | Description                                           |
-| ------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [multilingual](https://github.com/multilingualprogramming/multilingual)   | Core interpreter enabling multilingual syntax         |
-| [playground](https://github.com/multilingualprogramming/playground)       | Interactive environment to experiment in your browser |
-| [docs](https://github.com/multilingualprogramming/docs)                   | Language documentation and examples                   |
-| [Pixel2Polygon](https://github.com/multilingualprogramming/pixel2polygon) | Transform images into regular tiling mosaics          |
-| [Pixel2Plex](https://github.com/multilingualprogramming/Pixel2Plex)       | Generate demiregular tessellations from images        |
-| [fractales](https://github.com/multilingualprogramming/fractales)         | Explore fractals through multilingual code            |
-| [cellcosmos](https://github.com/multilingualprogramming/cellcosmos)       | Simulate cellular automata worlds                     |
+| Project                                                                           | Description                                           |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [multilingual](https://github.com/multilingualprogramming/multilingual)           | Core interpreter enabling multilingual syntax         |
+| [playground](https://github.com/multilingualprogramming/playground)               | Interactive environment to experiment in your browser |
+| [docs](https://github.com/multilingualprogramming/docs)                           | Language documentation and examples                   |
+| [Pixel2Polygon](https://github.com/multilingualprogramming/pixel2polygon)         | Transform images into regular tiling mosaics          |
+| [Pixel2Plex](https://github.com/multilingualprogramming/Pixel2Plex)               | Generate demiregular tessellations from images        |
+| [fractales](https://github.com/multilingualprogramming/fractales)                 | Explore fractals through multilingual code            |
+| [cellcosmos](https://github.com/multilingualprogramming/cellcosmos)               | Simulate cellular automata worlds                     |
+| [Automaginarium](https://github.com/multilingualprogramming/Automaginarium)       | Configurable universe generator for cellular automata |
 
 Together, these projects form a **playground for ideas at the intersection of language, computation, and design**.
 
