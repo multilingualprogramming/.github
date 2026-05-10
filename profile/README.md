@@ -56,6 +56,7 @@ through interpreters, visual tools, and creative applications:
 | [Automaginarium](https://github.com/multilingualprogramming/Automaginarium)       | Configurable universe generator for cellular automata |
 | [Memyrinth](https://github.com/multilingualprogramming/Memyrinth)                 | Game - Navigate a shifting labyrinth of numbers, patterns, and collisions where memory itself is constantly in motion. |
 | [Automaginarium](https://github.com/multilingualprogramming/tree-sitter-multilingual)       |  Tree-sitter grammar for the Multilingual Programming Language. |
+| [MotusArtium](https://github.com/multilingualprogramming/MotusArtium)       |  GraphQL-first art history observatory built on top of Wikidata. |
 
 Together, these projects form a **playground for ideas at the intersection of language, computation, and design**.
 
